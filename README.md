@@ -1,2 +1,1 @@
-Windows Server 2016
-Instalação do Windows Server. Disciplina: Redes de Computadores II, IFMA - Campus Imperatriz.
+Instalação do Windows Server 2016. Disciplina: Redes de Computadores II, IFMA - Campus Imperatriz.
